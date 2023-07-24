@@ -1,0 +1,4 @@
+v13 ssmi:0.8888411141485948,psnr:43.77934033813889,info:1.9214721817593974,mean_var0.16370228258358926.  des: real_A
+v14 ssmi:0.8856223927372345,psnr:33.40373184148956,info:1.8472271113543701,mean_var0.32164900444661576.  des:real_A + real_A * torch.sigmoid(edge_feature_ra)
+v15 des:real_A * torch.sigmoid(edge_feature_ra)
+

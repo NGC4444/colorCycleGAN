@@ -1,0 +1,8 @@
+.vscode/
+_pycache/
+Example/
+oasi_color_v2_results/
+results/
+seg_featuremap/
+segmentation/checkpoint/
+*.pth
